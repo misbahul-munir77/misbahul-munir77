@@ -39,17 +39,17 @@ Halo semuanya! Saya **Misbahul Munir**, seorang *Software Developer* dengan peng
 
 <div align="center">
   <h3>📬 Let's Connect</h3>
-
-  <a href="https://linkedin.com/in/misbahul-vctus-06b022440" target="_blank">
+<br><br>
+  <a href="https://linkedin.com/in/misbahul-vctus-06b022440" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:misbahulvctus@gmail.com">
+  <a href="misbahulvctus@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/misbahul.m_" target="_blank">
+  <a href="https://instagram.com/misbahul.m_" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://t.me/misbahul17" target="_blank">
+  <a href="https://t.me/misbahul17" target="blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
